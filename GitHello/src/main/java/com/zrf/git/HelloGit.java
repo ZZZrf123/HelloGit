@@ -3,7 +3,7 @@ package com.zrf.git;
 public class HelloGit {
 
     public static void main(String[] args) {
-        System.out.println("Hello Git HaHaHa!");
+        System.out.println("Hello Git HaHaHa 222!");
     }
 
     public String test(){
