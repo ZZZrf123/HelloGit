@@ -13,4 +13,8 @@ public class HelloGit {
     public String dev(){
         return "Dev Method！";
     }
+
+    public String dev2(){
+        return "Dev2 Method！";
+    }
 }
