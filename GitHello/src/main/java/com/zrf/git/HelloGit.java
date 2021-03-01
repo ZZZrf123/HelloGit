@@ -9,4 +9,8 @@ public class HelloGit {
     public String test(){
         return "Test Method！";
     }
+
+    public String dev(){
+        return "Dev Method！";
+    }
 }
